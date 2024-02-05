@@ -1,0 +1,45 @@
+[33mcommit 52a9bf565a5da5982fb9f28d98870b920ea9d664[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Augurio Silvestre <auguriosilvestre@gmail.com>
+Date:   Mon Feb 5 13:07:14 2024 -0600
+
+    cambio de maestria
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 1c5648dce048fe41aa6cd92fced4b9402e181452[m
+Author: Augurio Silvestre <auguriosilvestre@gmail.com>
+Date:   Mon Feb 5 13:05:31 2024 -0600
+
+    Cambio de vida
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 750d91b1c5570479c7fc2b7bdfeae0febda70ad9[m
+Author: Augurio Silvestre <auguriosilvestre@gmail.com>
+Date:   Mon Feb 5 13:04:09 2024 -0600
+
+    arranco mi proyecto real con html y css
+
+ blogpost.html   | 10 [32m++++++++++[m
+ css/estilos.css |  7 [32m+++++++[m
+ 2 files changed, 17 insertions(+)
+
+[33mcommit d1dd7f1fb52f7c19c669fc69fba51dd8644b47a0[m
+Author: Augurio Silvestre <auguriosilvestre@gmail.com>
+Date:   Mon Jan 29 22:12:17 2024 -0600
+
+    Cambios al archivo historia para reflejar la edad correcta
+
+ historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 3704d476be4d0ea57982883ea5970dd8b73efc2c[m
+Author: Augurio Silvestre <auguriosilvestre@gmail.com>
+Date:   Mon Jan 29 22:04:33 2024 -0600
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
